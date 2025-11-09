@@ -1,0 +1,6 @@
+{
+  "LOGIN": 1,
+  "LOGOUT": 1,
+  "PURCHASE": 1,
+  "PROFILE_UPDATE": 1
+}
